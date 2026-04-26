@@ -51,6 +51,6 @@ MENU
 El recorrido InOrden muestra los valores en orden ascendente, lo cual confirma que el árbol está correctamente implementado.
 
 ## Autor
-Nombre: [Tu nombre completo aquí]
-
-Curso: Programación III
+Nombre Elder Geovani Samayoa Esquivel
+Carnet 9941-24-10076
+Curso Programación III
